@@ -8,7 +8,7 @@ I'm focused on developing intelligent user interfaces. I love bringing **AI/ML**
 
 - 🎯 **Main Goal:** Focused on becoming a professional **Frontend Developer** with strong skills in applying **AI/ML**.
 - 🔭 I’m currently working on: **Building interactive simulators** to clearly showcase the practical use cases of my AI projects.
-- 💡 **Key Accomplishment:** I've successfully launched **two live simulator projects**—check them out in my pinned repositories!
+- 💡 **Key Accomplishment:** I've successfully launched **two live simulator projects** check them out in my pinned repositories!
 - 🌱 I’m currently deepening my knowledge in: Next.js and model optimization
 - 🤝 I’m looking to collaborate on: Projects that blend **React components with machine learning model integration**.
 - 💬 Ask me about: The architecture of my **live simulator projects**, **TypeScript best practices**, or implementing **Tailwind CSS**.
